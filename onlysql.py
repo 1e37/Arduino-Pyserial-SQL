@@ -8,8 +8,8 @@ import datetime
 
 try: con = mariadb.connect(
       user="serial_user",
-      password="Eisenbahn123",
-      host="mmgalaxy.ddns.net",
+      password="xxx",
+      host="localhost",
       port=3306,
       database="connDB"
       )
